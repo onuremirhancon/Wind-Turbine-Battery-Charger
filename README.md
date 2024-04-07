@@ -20,3 +20,7 @@ Specifications of the system are listed as follows:
 - Battery nominal voltage: 12 V
 - Output current: 10 A
 - Output current ripple: %20 of average current
+
+## Results
+
+Results can be seen in the final report file.
